@@ -1,0 +1,1 @@
+# vscode-java-maven-unittest-boiler
